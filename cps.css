@@ -1,0 +1,35 @@
+#text{
+  font-size:9.5vw;
+  color:white;
+}
+
+#moreInfo{
+  font-size:1.75vw;
+  color:white
+}
+
+p{
+  margin:0;
+}
+
+button{
+  position:fixed;
+  top:0;
+  left:0;
+  width:100vw;
+  height:100vh;
+  border:1.5vw solid #2ecc71;
+  border-radius:10vw;
+  background:none;
+  box-shadow:0px 0px 10vw;
+  outline:none;
+  text-align: center;
+}
+
+/*button:focus{
+  background:#1f1f1f;
+}*/
+
+body{
+  background-color:#191919;
+}
