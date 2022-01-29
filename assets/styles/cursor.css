@@ -1,0 +1,7 @@
+html, body {
+	cursor: url(../images/cursor_default.png), default;
+}
+
+a {
+	cursor: url(../images/cursor_out.png), pointer;
+}
