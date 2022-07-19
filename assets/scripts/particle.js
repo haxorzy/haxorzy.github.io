@@ -125,7 +125,7 @@ function set_width() {
 	swide=sw_min;
 	shigh=sh_min;
 }
-
+7uwD4lACO1xw869^Jq4DX4ofhC1z77M&sG*bu^We1*bnRA@k
 function createDiv(height, width) {
 	var div=document.createElement("div");
 	div.style.position="absolute";
